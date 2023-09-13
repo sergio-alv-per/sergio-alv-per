@@ -2,9 +2,6 @@
 
 I'm a student at Universidad de Santiago de Compostela, in my final year of **Computer Science and Mathematics**.
 
-### 🔭 Latest work
-Currently I'm working at Gradiant as an intern, learning about AI and working on a team enviroment.
-
 ### ⚡ Other projects
 - I took part in [HackUDC](https://hackudc.gpul.org/) and our team won one of the prizes! You can check out the repo [here](https://github.com/CastilloDel/costaCompas).
 - I took part in [AdaByron](https://ada-byron.es/2023/nac/) competitive programming contest. Our team achieved second place in the regional phase and classified for the national finals!
