@@ -1,6 +1,6 @@
 ## 😄 Hello! I'm Sergio 
 
-I'm a student at Universidad de Santiago de Compostela, in my final year of **Computer Science and Mathematics**. I'm also working at [Gradiant](https://www.gradiant.org/).
+I'm a graduate in **Computer Science and Mathematics**, currently working as a Researcher-Engineer at [Gradiant](https://www.gradiant.org/).
 
 ### 👨🏻‍💻 Experience
 - I'm currently working as a Researcher-Engineer at Gradiant.
